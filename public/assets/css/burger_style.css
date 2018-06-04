@@ -1,0 +1,30 @@
+body { 
+	background-image: url(../img/burger-pattern.jpg);
+}
+
+.container { 
+	background-color: #ffffb3;
+	border: 1px black solid;
+}
+
+.jumbotron { 
+	background-color: #ffffb3;
+}
+
+.center {
+	text-align: center;
+}
+
+.btn-primary {
+	background-color: red;
+}
+
+.create-update-form {
+  padding: 25px;
+  margin: 25px;
+  border: 1px black solid;
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
